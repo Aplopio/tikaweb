@@ -1,4 +1,4 @@
-(defproject tikaweb "0.1.0-SNAPSHOT"
+(defproject tikaweb "0.1.0"
   :description "Provide Apache Tika library as a web service."
   :url "http://example.com/FIXME"
   :min-lein-version "2.0.0"
