@@ -1,0 +1,4 @@
+test:
+  post:
+    - lein ring uberjar
+    - cp target/*standalone.jar $CIRCLE_ARTIFACTS
